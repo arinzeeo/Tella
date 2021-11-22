@@ -294,7 +294,7 @@ select:visited {
   -webkit-box-shadow: 0px 15px 60px 0px rgba(253, 89, 135, 0.3);
   box-shadow: 0px 15px 60px 0px rgba(253, 89, 135, 0.3);
   background-image: -webkit-gradient(linear, left top, right top, from(#fd4485), color-stop(50%, #ffa38d), to(#fd4485));
-  background-image: linear-gradient(90deg, #fd4485 0%, #ffa38d 50%, #fd4485);
+  background-image: linear-gradient(90deg, #2B86C7 0%, #0D3151 50%, #0D3151);
 }
 .pr-mark-btn a:hover {
   background-position: 120%;
@@ -311,7 +311,7 @@ select:visited {
   font-size: 20px;
   font-weight: 700;
   position: relative;
-  color: #fe5d87;
+  color: #2B86C7;
   font-family: "Poppins";
 }
 .pr-mark-section-title .pr-mark-section-title-tag:before, .pr-mark-section-title .pr-mark-section-title-tag:after {
@@ -320,7 +320,7 @@ select:visited {
   width: 42px;
   content: "";
   position: absolute;
-  background-color: #fe5d87;
+  background-color: #2B86C7;
 }
 .pr-mark-section-title .pr-mark-section-title-tag:before {
   left: -45px;
@@ -332,7 +332,7 @@ select:visited {
 .pr-mark-section-title h2 {
   font-size: 36px;
   font-weight: 700;
-  color: #0d1d72;
+  color: #0D3151;
   padding: 10px 0px 20px;
 }
 
@@ -562,7 +562,7 @@ select:visited {
   width: 100%;
   height: 60px;
   position: absolute;
-  background: linear-gradient(83deg, #fd4485 0%, #ffa38d 100%);
+  background: linear-gradient(83deg, #0D3151 0%, #2B86C7 100%);
 }
 
 .pr-mark-header-top-cta li {
@@ -615,7 +615,7 @@ select:visited {
   display: inline;
 }
 .pr-mark-navigation-menu .pr-main-navigation .nav-link.active {
-  color: #fe5d87;
+  color: #2B86C7;
 }
 .pr-mark-navigation-menu .pr-main-navigation .dropdown:after {
   top: 0px;
@@ -948,17 +948,17 @@ select:visited {
   padding: 7px 40px;
   border-radius: 5px;
   display: inline-block;
-  background: linear-gradient(-135deg, rgba(253, 68, 133, 0.2) 0%, rgba(255, 163, 141, 0.2) 100%);
+  background: linear-gradient(-135deg, rgba(43, 134, 199, 0.2) 0%, rgba(43, 134, 199, 0.2) 100%);
 }
 .pr-mark-banner-content .pr-mark-banner-text .banner-sub-tag b {
-  background: linear-gradient(49deg, #fd4485 0%, #ffa38d 100%);
+  background: linear-gradient(49deg, #0D3151 0%, #0D3151 100%);
   -webkit-background-clip: text;
   -moz-background-clip: text;
   background-clip: text;
   -webkit-text-fill-color: transparent;
 }
 .pr-mark-banner-content .pr-mark-banner-text h1 {
-  color: #0d1d72;
+  color: #0D3151;
   font-size: 60px;
   font-weight: 700;
   padding: 20px 0px;
@@ -1842,7 +1842,7 @@ select:visited {
 .pr-cor-footer-shape {
   width: 100%;
   height: 50px;
-  background-color: #0d1d72;
+  background-color: #0D3151;
 }
 
 /*---------------------------------------------------- */
