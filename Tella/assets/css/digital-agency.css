@@ -179,7 +179,7 @@ select:visited {
   position: fixed;
   border-radius: 100%;
   line-height: 55px;
-  background-color: #fe5d87;
+  background-color: #2B86C7;
 }
 .scrollup i {
   color: #fff;
@@ -291,9 +291,7 @@ select:visited {
   border-radius: 5px;
   font-family: "Poppins";
   background-size: 200%, 1px;
-  -webkit-box-shadow: 0px 15px 60px 0px rgba(253, 89, 135, 0.3);
-  box-shadow: 0px 15px 60px 0px rgba(253, 89, 135, 0.3);
-  background-image: -webkit-gradient(linear, left top, right top, from(#fd4485), color-stop(50%, #ffa38d), to(#fd4485));
+  box-shadow: 0px 15px 60px 0px rgba(43, 134, 199, 0.1);
   background-image: linear-gradient(90deg, #2B86C7 0%, #0D3151 50%, #0D3151);
 }
 .pr-mark-btn a:hover {
@@ -682,7 +680,7 @@ select:visited {
 .pr-mark-navigation-menu .pr-main-navigation .dropdown .dropdown-menu .dropdown:after {
   top: 10px;
   right: 10px;
-  color: #fe5d87;
+  color: #2B86C7;
 }
 .pr-mark-navigation-menu .pr-main-navigation .dropdown .dropdown-menu .dropdown .dropdown-menu {
   top: 10px;
@@ -832,7 +830,7 @@ select:visited {
   right: 0px;
   top: -57px;
   z-index: 5;
-  color: #0d1d72;
+  color: #2B86C7;
   display: none;
   cursor: pointer;
   font-size: 22px;
@@ -871,7 +869,7 @@ select:visited {
   color: #fff !important;
 }
 .mobile_menu .mobile_menu_content .mobile-main-navigation .navbar-nav .dropdown-menu li a:hover {
-  color: #0d1d72;
+  color: #2B86C7;
   background-color: transparent;
 }
 .mobile_menu .dropdown {
@@ -998,7 +996,7 @@ select:visited {
   box-shadow: 0px 20px 60px 0px rgba(151, 151, 151, 0.25);
 }
 .pr-mark-banner-content .pr-mark-banner-client-wrapper .pr-mark-banner-client-text {
-  color: #252525;
+  color: #0D3151;
   font-size: 20px;
   font-weight: 700;
   margin-right: 10px;
@@ -1276,10 +1274,10 @@ select:visited {
   display: inline-block;
   -webkit-transition: 0.3s all ease-in-out;
   transition: 0.3s all ease-in-out;
-  background-color: #0d1d72;
+  background-color: #0D3151;
 }
 .pr-mark-blog-slider .slick-dots li.slick-active, .pr-mark-testimonial-slider .slick-dots li.slick-active, .pr-mark-tab-content-area .pr-mark-case-slider .slick-dots li.slick-active {
-  background-color: #fe5d87;
+  background-color: #2B86C7;
 }
 .pr-mark-blog-slider .slick-dots li button, .pr-mark-testimonial-slider .slick-dots li button, .pr-mark-tab-content-area .pr-mark-case-slider .slick-dots li button {
   display: none;
@@ -1546,7 +1544,7 @@ select:visited {
   margin: 0 auto;
   -webkit-box-shadow: none;
   box-shadow: none;
-  color: #0d1d72;
+  color: #0D3151;
   position: relative;
 }
 .pr-mark-pricing-innerbox .pr-mark-priceing-btn .pr-mark-btn a:before {
@@ -1650,11 +1648,11 @@ select:visited {
 .pr-mark-testimonial-innerbox .pr-mark-testimonial-author .pr-mark-testimonial-name-designation h3 {
   font-size: 18px;
   font-weight: 700;
-  color: #0d1d72;
+  color: #0D3151;
   padding-bottom: 5px;
 }
 .pr-mark-testimonial-innerbox .pr-mark-testimonial-author .pr-mark-testimonial-name-designation span {
-  color: #0d1d72;
+  color: #2B86C7;
 }
 
 .pr-mark-testimonial-slider .slick-next,
@@ -1776,7 +1774,7 @@ select:visited {
 }
 
 .pr-mark-footer-widget {
-  color: #0d1d72;
+  color: #0D3151;
 }
 .pr-mark-footer-widget .widget-title {
   font-size: 20px;
@@ -1798,7 +1796,7 @@ select:visited {
 }
 .pr-mark-footer-widget .menu-widget a:hover {
   margin-left: 5px;
-  color: #fe5d87;
+  color: #2B86C7;
 }
 .pr-mark-footer-widget .pr-mark-newslatter-widget p {
   padding-bottom: 20px;
@@ -1811,6 +1809,7 @@ select:visited {
   border-radius: 6px;
   -webkit-box-shadow: 0px 15px 60px 0px rgba(118, 118, 118, 0.2);
   box-shadow: 0px 15px 60px 0px rgba(118, 118, 118, 0.2);
+  text-align: center;
 }
 .pr-mark-footer-widget .pr-mark-newslatter-widget input::-webkit-input-placeholder {
   text-align: center;
@@ -1836,7 +1835,7 @@ select:visited {
   font-weight: 600;
   border-radius: 5px;
   font-family: "Poppins";
-  background: linear-gradient(-162deg, #fd4485 0%, #ffa38d 100%);
+  background-image: linear-gradient(90deg, #2B86C7 0%, #0D3151 50%, #0D3151);
 }
 
 .pr-cor-footer-shape {

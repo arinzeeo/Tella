@@ -329,20 +329,21 @@ select:visited {
 }
 
 .app-dm-section-title .sub-title {
-  color: #3b6aff;
-  font-size: 18px;
+  color: #2B86C7;
+  font-size: 20px;
   font-weight: 700;
-  font-family: "Lexend";
+  font-family: "Poppins";
+  position: relative;
 }
 .app-dm-section-title .sub-title:before, .app-dm-section-title .sub-title:after {
-  top: 12px;
+  top: 18px;
   content: "";
-  width: 120px;
-  height: 2px;
+  width: 42px;
+  height: 3px;
   position: absolute;
-  background-color: #3b6aff;
+  background-color: #2B86C7;
 }
-.app-dm-section-title .sub-title:after {
+.app-dm-section-title .subrelative-title:after {
   right: -127px;
 }
 .app-dm-section-title .sub-title:before {
@@ -350,11 +351,11 @@ select:visited {
   left: -127px;
 }
 .app-dm-section-title h2 {
-  color: #000715;
+  color: #0D3151;
   font-size: 36px;
   font-weight: 700;
-  line-height: 1.333;
   padding: 10px 0px 20px;
+  font-family: "Poppins";
 }
 .app-dm-section-title.text-center {
   margin: 0 auto;
@@ -1143,11 +1144,11 @@ select:visited {
 }
 .app-dm-faq-item .app-dm-faq-item-header button {
   width: 100%;
-  color: #000715;
+  color: #0D3151;
   border: none;
   font-size: 18px;
   text-align: left;
-  font-weight: 500;
+  font-weight: 700;
   position: relative;
   padding: 20px 25px 20px 70px;
   background-color: transparent;
@@ -1165,7 +1166,7 @@ select:visited {
   text-align: center;
   border-radius: 5px;
   position: absolute;
-  background: linear-gradient(-160deg, #4b3eff 0%, #22b1ff 99%);
+  background-image: linear-gradient(90deg, #2B86C7 0%, #0D3151 50%, #0D3151);
 }
 .app-dm-faq-item .app-dm-faq-item-header button.collapsed:before {
   content: "+";
